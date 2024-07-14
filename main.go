@@ -114,7 +114,7 @@ func main() {
 	fmt.Println("Приветствую тебя, искатель приключений!")
 	fmt.Println("Прежде чем начать игру...")
 
-	var char_name string
+	var charName string
 	fmt.Print("...назови себя: ")
 	fmt.Scanf("%s\n", &charName)
 
